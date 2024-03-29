@@ -2,7 +2,7 @@
 
 ## 代码审计
 
-.net软件
+.net
 
 - [x] [智邦国际ERP] [代码审计](Code_Audit/zhibangguoji.md)
 
