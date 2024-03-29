@@ -6,7 +6,7 @@
 
 - [x] [易宝OA] [代码审计](Code_Audit/yibao.md)
 
-- [ ] [快普] [代码审计](Code_Audit)
+- [x] [快普] [代码审计](Code_Audit/kuaipu.md)
 
   
 
