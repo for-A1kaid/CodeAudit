@@ -1,5 +1,7 @@
 ## 红海云EHR
 
+FOFA：body="/RedseaPlatform/skins/images/favicon.ico"
+
 前天看了一下红海云想审计交通用漏洞计划，没想到直接当晚就超标不收了，这两天挖了一些洞还是写一哈吧
 
 源码就在lework-x.x-SNAPSHOT.war里面
