@@ -14,6 +14,8 @@
 
 - [ ] [畅捷通] [代码审计](Code_Audit)
 
+- [x] [金和C6] [代码审计](Code_Audit/c6.md)
+
 JAVA
 
 - [ ] 海康威视
@@ -21,3 +23,4 @@ JAVA
 - [x] 红海云EHR[代码审计](Code_Audit/honghaiyun.md)
 
 ![](https://img.xwyue.com/i/2024/03/29/660619bd229f5.png)
+
