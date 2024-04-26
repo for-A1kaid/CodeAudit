@@ -21,6 +21,7 @@ JAVA
 - [ ] 海康威视
 - [ ] 大华智慧园区
 - [x] 红海云EHR[代码审计](Code_Audit/honghaiyun.md)
+- [x] 普元EOS Platform[代码审计](Code_Audit/puyuan.md)
 
 ![](https://img.xwyue.com/i/2024/03/29/660619bd229f5.png)
 
