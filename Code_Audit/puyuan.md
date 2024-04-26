@@ -4,6 +4,28 @@ Fofa语句：body="普元" || (body="ame.primeton.com" && body="eos-web")
 
 
 
+应用目录结构
+
+```
+├── BPS Work Client.url
+├── Coframe.url
+├── Governor.url
+├── LICENSE
+├── LICENSE_en
+├── apache-tomcat-8.5.57
+├── apps_config
+├── components
+├── ico
+├── scripts
+├── startServer.cmd
+├── startServer.sh
+├── stopServer.cmd
+├── stopServer.sh
+└── workspace.url
+```
+
+
+
 ### Primeton EOS Platform jmx反序列化
 
 
