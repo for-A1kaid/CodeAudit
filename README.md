@@ -2,7 +2,7 @@
 
 ## 代码审计
 
-代码审计工具部分
+代码审计工具
 
 - [x]  [使用Jar Analyzer快速复现大华智慧园区漏洞](Code_Audit/jaranalyzer.md)
 
