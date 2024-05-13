@@ -23,7 +23,6 @@
 JAVA
 
 - [ ] 海康威视
-- [x] NCCLOUD(更新中)[代码审计](Code_Audit/nccloud.md)
 - [ ] 大华智慧园区
 - [x] 红海云EHR[代码审计](Code_Audit/honghaiyun.md)
 - [x] 普元EOS Platform[代码审计](Code_Audit/puyuan.md)
