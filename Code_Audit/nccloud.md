@@ -216,7 +216,7 @@ SOAPAction: urn:getBapTable
 GET /ncchr/pm/staff/queryStaffByName?name=1 HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows NT 6.2) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/41.0.887.0 Safari/532.1
 Accesstokenncc: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyaWQiOiIxIn0.F5qVK-ZZEgu3WjlzIANk2JXwF49K5cBruYMnIOxItOQ
-Host: 218.4.37.234:9999
+Host: ip
 Accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
 Connection: close
 ```
