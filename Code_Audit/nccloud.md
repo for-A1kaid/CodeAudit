@@ -169,7 +169,7 @@ validAccessToken中代码如下
 
 直接使用getBapTable即可注入
 
-
+poc大致如下 没写参数部分
 
 ```
 POST /uapws/service/nc.itf.bap.service.IBapIOService HTTP/1.1
