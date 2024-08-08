@@ -6,7 +6,7 @@
 
 直接打开OutSysProxyHandler
 
-illocalrequesturl首先会从proxy.xml里取出view标签里的值，当取尽之后再从excludes中取
+isLocalRequestURL首先会从proxy.xml里取出view标签里的值，当取尽之后再从excludes中取
 
 Proxy.xml中的view标签和excludes如下
 
