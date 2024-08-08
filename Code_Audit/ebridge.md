@@ -1,6 +1,8 @@
-## 为什么可以url编码才可以访问到上传文件
+## 为什么url编码才可以访问到上传文件
 
 虽然泛微ebridge使用了jfinal,但是使用url编码来访问文件不是利用的JFinal的DenyAccessJsp绕过，因为在使用tomcat除了编码还可以使用.jsp;来访问文件(https://forum.butian.net/share/1899)，但是这个在使用.jsp;访问时却依然会跳转
+
+文件源码
 
 ![image-20240808161652102](./Images/1.png)
 
