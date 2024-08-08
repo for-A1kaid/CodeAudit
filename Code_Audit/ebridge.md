@@ -4,7 +4,7 @@
 
 ![image-20240808161652102](./Images/1.png)
 
-直接可以打开OutSysProxyHandler
+直接打开OutSysProxyHandler
 
 illocalrequesturl首先会从proxy.xml里取出view标签里的值，当取尽之后再从excludes中取
 
