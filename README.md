@@ -2,6 +2,8 @@
 
 ## 代码审计
 
+[为什么泛微ebridge需要编码才能访问文件](Code_Audit/ebridge.md)
+
 代码审计工具
 
 - [x] [使用Jar Analyzer快速复现大华智慧园区漏洞](Code_Audit/jaranalyzer.md)
