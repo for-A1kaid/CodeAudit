@@ -2,6 +2,8 @@
 
 ## 代码审计
 
+[重生之我在提瓦特大陆审计万户ezoffice](Code_Audit/whirezoffice.md)
+
 [为什么泛微ebridge需要编码才能访问文件](Code_Audit/ebridge.md)
 
 代码审计工具
